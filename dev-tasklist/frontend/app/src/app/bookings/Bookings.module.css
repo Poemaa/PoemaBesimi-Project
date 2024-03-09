@@ -1,0 +1,28 @@
+
+  .libook {
+    height: 150px;
+    width: 400px;
+    padding: 0.2rem 1rem;
+    margin: 0.5rem;
+    background: #c9d5e6;
+    box-shadow: 4px 4px 8px 1px #00000075;
+    border-radius: 2px;
+    color:rgb(19, 18, 18);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    padding-top: 80x;
+    margin-bottom: 30px;
+    font-size: 18px;
+    text-align: center;
+
+  }
+  
+.bg{
+    background-image: url("https://img.freepik.com/premium-vector/blue-abstract-background_66029-24.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+  
+ 
